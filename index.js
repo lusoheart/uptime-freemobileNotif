@@ -1,5 +1,5 @@
 /**
- * * reemobileNotif plugin for uptime project - https://github.com/fzaninotto/uptime
+ * * freemobileNotif plugin for uptime project - https://github.com/fzaninotto/uptime
  * *
  * * |EN| Notifies all events (up, down, paused, restarted) by sending a
  * * HTTP POST request to the Freemobile SMS API URL. The request will 
